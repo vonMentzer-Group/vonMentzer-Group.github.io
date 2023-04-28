@@ -25,7 +25,7 @@ The von Mentzer-Group is based in the Department of Microbiology and immunology 
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="(https://goo.gl/maps/FP46gpt98ZtfuYxN9)"
+  link="https://goo.gl/maps/FP46gpt98ZtfuYxN9"
 %}
 
 {% include section.html %}
