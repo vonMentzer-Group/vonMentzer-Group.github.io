@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-The von Mentzer-Group is based in the Department of Microbiology and immunology at the University of Gothenburg. We are located on the 5th floor.
+The von Mentzer-Group is based in the Department of Microbiology and immunology at Sahlgrenska Academy, Institute of Biomedicine, University of Gothenburg. We are located on the 5th floor.
 
 {%
   include button.html
@@ -27,6 +27,13 @@ The von Mentzer-Group is based in the Department of Microbiology and immunology 
   tooltip="Our location on Google Maps for easy navigation"
   link="https://goo.gl/maps/FP46gpt98ZtfuYxN9"
 %}
+
+Mailing adress
+Astrid von Mentzer
+Department of Microbiology and Immunology
+Institute of Biomedicine
+Medicinaregatan 1G
+413 90 Gothenburg
 
 {% include section.html %}
 
