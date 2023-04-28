@@ -41,8 +41,8 @@ Medicinaregatan 1G
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/1200px-Sahlgrenska_Academy.jpeg"
+  caption="Sahlgrenska Academy"
 %}
 
 {% endcapture %}
