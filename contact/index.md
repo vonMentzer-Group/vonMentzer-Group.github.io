@@ -28,31 +28,21 @@ The von Mentzer-Group is based in the Department of Microbiology and immunology 
   link="https://goo.gl/maps/FP46gpt98ZtfuYxN9"
 %}
 
-Mailing adress
-Astrid von Mentzer
-Department of Microbiology and Immunology
-Institute of Biomedicine
-Medicinaregatan 1G
+<b>Mailing adress</b><br>
+Astrid von Mentzer<br>
+Department of Microbiology and Immunology<br>
+Institute of Biomedicine<br>
+Medicinaregatan 1G<br>
 413 90 Gothenburg
 
 {% include section.html %}
 
-{% capture col1 %}
+{% capture %}
 
 {%
   include figure.html
   image="images/1200px-Sahlgrenska_Academy.jpeg"
   caption="Sahlgrenska Academy"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
