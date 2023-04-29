@@ -1,21 +1,24 @@
-- id: doi: 10.1038/ng.3145
-  type: paper
-  description: Whole-genome sequencing of a representative collection of ETEC isolated between 1980 and 2011 identified globally distributed lineages characterized by distinct colonization factor and enterotoxin profiles. Contrary to current notions, these relatively recently emerged lineages might harbor chromosome and plasmid combinations that optimize fitness and transmissibility. 
-  date: 2014-11-10
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: Original article
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+- id: https://doi.org/10.1101/2023.04.11.536449
+  type: Preprint
+  description: Construction of the ETECFinder database for the characterisation of enterotoxigenic Escherichia coli (ETEC) and revision of the VirulenceFinder webtool at the CGE website
+  date: 2023-04-11
   tags:
     - ETEC
-    - evolution
-  repo: greenelab/meta-review
+    - ETECFinder
+    - Tool
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi: https://doi.org/10.1101/2023.02.08.527665
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi: https://doi.org/10.1128/mra.00416-22
+
+- id: doi: | https://doi.org/10.1038/s41598-021-88316-2
+  image: https://www.nature.com/articles/s41598-021-88316-2/figures/1
+
+- id: doi: https://doi.org/10.1080/21505594.2020.1749497
+  image: https://www.tandfonline.com/doi/full/10.1080/21505594.2020.1749497
+
+- id: doi: https://doi.org/10.1371/journal.pone.0209357
+  image: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209357
+
+- id: doi: 10.1038/ng.3145
+  image: https://www.nature.com/articles/ng.3145/figures/1
