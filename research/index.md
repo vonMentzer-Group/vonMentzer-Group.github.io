@@ -6,9 +6,10 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
+Pathogenic _Escherichia coli_ (_E. coli_) causing diarrhoea kills over half a million children under five in low and middle-income countries each year. _E. coli_ is also a leading cause of community- and hospital-acquired bloodstream infections and a major problem in the animal industry. Adhesins play a key role in bacterial pathogenesis, enabling the bacteria to colonise and cause an infection, but are also involved in survival in secondary environments, like water. Furthermore, adhesin’s ability to adhere to cells determine tissue and host specificity. A deep understanding of the pathogen’s transmission dynamics, how they evolve, how they interact with hosts as well as the distribution and diversity of the virulome (set of genes that contribute to the virulence of a bacterium) is of great significance for vaccine development.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In the light of these realities, the goal of the research in the von Mentzer Group is to unravel the transmission dynamics of isolates between different hosts and the transmission of genetic elements that drive virulence and resistance in bacteria. To do this, we use data-driven genomics for high-throughput and large-scale analysis and where needed, followed by experimental corroboration. The previous research by Astrid von Mentzer centred around the major diarrhoea-causing enterotoxigenic _Escherichia coli_ (ETEC) bacteria provides the cornerstones from which I will focus on the evolution and emergence of pathogenic bacteria with a link to how vaccines can confer broad protection against different bacterial variants and identify the drivers behind their emergence in humans and animals.
+
 
 {% include section.html %}
 
