@@ -1,4 +1,4 @@
-- id: https://doi.org/10.1101/2023.04.11.536449
+- id: doi: 10.1101/2023.04.11.536449
   type: Preprint
   description: Construction of the ETECFinder database for the characterisation of enterotoxigenic Escherichia coli (ETEC) and revision of the VirulenceFinder webtool at the CGE website
   date: 2023-04-11
@@ -7,17 +7,17 @@
     - ETECFinder
     - Tool
 
-- id: doi: https://doi.org/10.1101/2023.02.08.527665
+- id: doi: 10.1101/2023.02.08.527665
 
-- id: doi: https://doi.org/10.1128/mra.00416-22
+- id: doi: 10.1128/mra.00416-22
 
-- id: doi: | https://doi.org/10.1038/s41598-021-88316-2
+- id: doi: 10.1038/s41598-021-88316-2
   image: https://www.nature.com/articles/s41598-021-88316-2/figures/1
 
-- id: doi: https://doi.org/10.1080/21505594.2020.1749497
+- id: doi: 10.1080/21505594.2020.1749497
   image: https://www.tandfonline.com/doi/full/10.1080/21505594.2020.1749497
 
-- id: doi: https://doi.org/10.1371/journal.pone.0209357
+- id: doi: 10.1371/journal.pone.0209357
   image: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209357
 
 - id: doi: 10.1038/ng.3145
