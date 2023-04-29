@@ -1,7 +1,7 @@
 
 ---
 name: Astrid von Mentzer
-image: images/astrid
+image: images/Porträtt_D3A7840-1-01.jpg
 description: PI
 role: Group leader
 aliases:
