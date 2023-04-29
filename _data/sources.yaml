@@ -30,7 +30,7 @@
 - id: doi:10.1038/s41598-017-12743-3
   image: images/CS30.png
 
--id: doi:10.1099/mgen.0.000121
+- id: doi:10.1099/mgen.0.000121
   inage: images/Oag_iguchi.png
   
 - id: doi:10.1016/j.ijmm.2016.05.016
