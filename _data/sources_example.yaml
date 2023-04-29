@@ -1,3 +1,19 @@
+- id: doi: 10.1101/2023.04.11.536449
+
+- id: doi:10.1101/2023.02.08.527665
+
+- id: doi:10.1128/mra.00416-22
+
+- id: doi:10.1038/s41598-021-88316-2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-88316-2/MediaObjects/41598_2021_88316_Fig1a_HTML.png?as=webp
+
+- id: doi:10.1080/21505594.2020.1749497
+
+
+- id: doi:10.1371/journal.pone.0209357
+
+- id: doi:10.1038/ng.3145
+
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
