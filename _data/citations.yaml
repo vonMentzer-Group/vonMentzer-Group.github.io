@@ -16,8 +16,9 @@
   date: '2017-10-02'
   link: https://doi.org/gcjndh
   orcid: 0000-0002-2167-1394
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/CS30.png
 - id: doi:10.1099/mgen.0.000121
   title: An untypeable enterotoxigenic Escherichia coli represents one of the dominant
     types causing human disease
@@ -30,8 +31,9 @@
   date: '2017-09-01'
   link: https://doi.org/gchxhv
   orcid: 0000-0002-2167-1394
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  inage: images/Oag_iguchi.png
 - id: doi:10.1016/j.ijmm.2016.05.016
   title: Identification of new heat-stable (STa) enterotoxin allele variants produced
     by human enterotoxigenic Escherichia coli (ETEC)
@@ -44,8 +46,9 @@
   date: '2016-11-01'
   link: https://doi.org/f3t4sg
   orcid: 0000-0002-2167-1394
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/ST_joffre.png
 - id: doi:10.1371/journal.pone.0152899
   title: Stability of the Encoding Plasmids and Surface Expression of CS6 Differs
     in Enterotoxigenic Escherichia coli (ETEC) Encoding Different Heat-Stable (ST)
@@ -62,8 +65,9 @@
   date: '2016-04-07'
   link: https://doi.org/f3p57n
   orcid: 0000-0002-2167-1394
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/CS6_stability.png
 - id: doi:10.1002/eji.201445058
   title: Treg-cell depletion promotes chemokine production and accumulation of CXCR3<sup>+</sup>conventional
     T cells in intestinal tumors
@@ -79,8 +83,9 @@
   date: '2015-04-14'
   link: https://doi.org/f27dvg
   orcid: 0000-0002-2167-1394
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/treg_2015.png
 - id: doi:10.1586/14760584.2015.996553
   title: Implications of enterotoxigenic<i>Escherichia coli</i>genomics for vaccine
     development
@@ -134,8 +139,9 @@
   date: '2014-11-10'
   link: https://doi.org/f25c9p
   orcid: 0000-0002-2167-1394
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/long-read_refs.png
 - id: doi:10.1007/s00262-014-1555-6
   title: Altered chemokine production and accumulation of regulatory T cells in intestinal
     adenomas of APCMin/+ mice
@@ -253,5 +259,38 @@
   date: '2021-04-29'
   link: https://doi.org/gjw69r
   image: images/long-read_refs.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/21505594.2020.1749497
+  title: Colonization factor CS30 from enterotoxigenic <i>Escherichia coli</i> binds
+    to sulfatide in human and porcine small intestine
+  authors:
+  - Astrid Von Mentzer
+  - Dani Zalem
+  - Zofia Chrienova
+  - Susann Teneberg
+  publisher: Virulence
+  date: '2020-04-14'
+  link: https://doi.org/gjq6n8
+  image: images/CS30_sulfatide.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0209357
+  title: Phenotypic and genomic analyses of bacteriophages targeting environmental
+    and clinical CS3-expressing enterotoxigenic Escherichia coli (ETEC) strains
+  authors:
+  - Sajib Chakraborty
+  - Astrid von Mentzer
+  - Yasmin Ara Begum
+  - Mehnaz Manzur
+  - Mahmudul Hasan
+  - Amar N. Ghosh
+  - M. Anwar Hossain
+  - Andrew Camilli
+  - Firdausi Qadri
+  publisher: PLOS ONE
+  date: '2018-12-20'
+  link: https://doi.org/gjb6kk
+  image: images/bacteriphages.png
   plugin: sources.py
   file: sources.yaml
