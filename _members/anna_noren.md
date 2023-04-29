@@ -1,6 +1,6 @@
 ---
 name: Anna Norén
-image: images/
+image: images/Anna.noren_cut-01.png
 role: MSc-student
 
 links:
