@@ -237,7 +237,7 @@
   publisher: Scientific Reports
   date: '2021-04-29'
   link: https://doi.org/gjw69r
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-88316-2/MediaObjects/41598_2021_88316_Fig1a_HTML.png?as=webp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-88316-2/MediaObjects/41598_2021_88316_Fig1a_HTML.png
   plugin: sources.py
   file: sources_example.yaml
 - id: doi:10.1080/21505594.2020.1749497
