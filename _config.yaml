@@ -2,17 +2,18 @@
 title: vonMentzer-Group
 subtitle: 
 description: Website of the von Mentzer Group at the University of Gothenburg, led by Dr Astrid von Mentzer.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/orange2_E873_front_160407.tif
+footer: images/orange2_E873_front_160407.tif
 
 # site social media and other links
 links:
-  email: contact@vonMentzer-Group.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: astrid.von.mentzer@gu.se
+  orcid: 0000-0002-2167-1394
+  google-scholar: https://scholar.google.com/citations?user=XWiC4SAAAAAJ&hl=en
   github: vonMentzer-Group
-  twitter: vonMentzer-Group
-  youtube: vonMentzer-Group
+  #twitter: vonMentzer-Group
+  #LinkedIn: vonMentzer-Group
+  #YouTube: XYZ
 
 ### jekyll settings
 
