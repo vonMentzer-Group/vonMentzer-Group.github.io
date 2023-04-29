@@ -1,60 +1,172 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41598-017-12743-3
+  title: Identification and characterization of the novel colonization factor CS30
+    based on whole genome sequencing in enterotoxigenic Escherichia coli (ETEC)
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Astrid von Mentzer
+  - Joshua Tobias
+  - Gudrun Wiklund
+  - Stefan Nordqvist
+  - Martin Aslett
+  - Gordon Dougan
+  - "\xC5sa Sj\xF6ling"
+  - Ann-Mari Svennerholm
+  publisher: Scientific Reports
+  date: '2017-10-02'
+  link: https://doi.org/gcjndh
+  orcid: 0000-0002-2167-1394
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1099/mgen.0.000121
+  title: An untypeable enterotoxigenic Escherichia coli represents one of the dominant
+    types causing human disease
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Atsushi Iguchi
+  - Astrid von Mentzer
+  - Taisei Kikuchi
+  - Nicholas R. Thomson
+  publisher: Microbial Genomics
+  date: '2017-09-01'
+  link: https://doi.org/gchxhv
+  orcid: 0000-0002-2167-1394
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.ijmm.2016.05.016
+  title: Identification of new heat-stable (STa) enterotoxin allele variants produced
+    by human enterotoxigenic Escherichia coli (ETEC)
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Enrique Joffr\xE9"
+  - Astrid von Mentzer
+  - Ann-Mari Svennerholm
+  - "\xC5sa Sj\xF6ling"
+  publisher: International Journal of Medical Microbiology
+  date: '2016-11-01'
+  link: https://doi.org/f3t4sg
+  orcid: 0000-0002-2167-1394
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0152899
+  title: Stability of the Encoding Plasmids and Surface Expression of CS6 Differs
+    in Enterotoxigenic Escherichia coli (ETEC) Encoding Different Heat-Stable (ST)
+    Enterotoxins (STh and STp)
+  authors:
+  - Joshua Tobias
+  - Astrid Von Mentzer
+  - Patricia Loayza Frykberg
+  - Martin Aslett
+  - Andrew J. Page
+  - "\xC5sa Sj\xF6ling"
+  - Ann-Mari Svennerholm
+  publisher: PLOS ONE
+  date: '2016-04-07'
+  link: https://doi.org/f3p57n
+  orcid: 0000-0002-2167-1394
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/eji.201445058
+  title: Treg-cell depletion promotes chemokine production and accumulation of CXCR3<sup>+</sup>conventional
+    T cells in intestinal tumors
+  authors:
+  - Paulina Akeus
+  - Veronica Langenes
+  - Jonas Kristensen
+  - Astrid von Mentzer
+  - Tim Sparwasser
+  - Sukanya Raghavan
+  - "Marianne Quiding-J\xE4rbrink"
+  publisher: European Journal of Immunology
+  date: '2015-04-14'
+  link: https://doi.org/f27dvg
+  orcid: 0000-0002-2167-1394
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1586/14760584.2015.996553
+  title: Implications of enterotoxigenic<i>Escherichia coli</i>genomics for vaccine
+    development
+  authors:
+  - "\xC5sa Sj\xF6ling"
+  - Astrid von Mentzer
+  - Ann-Mari Svennerholm
+  publisher: Expert Review of Vaccines
+  date: '2014-12-26'
+  link: https://doi.org/f3nt7v
+  orcid: 0000-0002-2167-1394
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/jb.02050-14
+  title: Allele Variants of Enterotoxigenic Escherichia coli Heat-Labile Toxin Are
+    Globally Transmitted and Associated with Colonization Factors
+  authors:
+  - "Enrique Joffr\xE9"
+  - Astrid von Mentzer
+  - Moataz Abd El Ghany
+  - Numan Oezguen
+  - Tor Savidge
+  - Gordon Dougan
+  - Ann-Mari Svennerholm
+  - "\xC5sa Sj\xF6ling"
+  publisher: Journal of Bacteriology
+  date: '2014-11-17'
+  link: https://doi.org/f3ns55
+  orcid: 0000-0002-2167-1394
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng.3145
+  title: Identification of enterotoxigenic Escherichia coli (ETEC) clades with long-term
+    global distribution
+  authors:
+  - Astrid von Mentzer
+  - Thomas R Connor
+  - Lothar H Wieler
+  - Torsten Semmler
+  - Atsushi Iguchi
+  - Nicholas R Thomson
+  - David A Rasko
+  - Enrique Joffre
+  - Jukka Corander
+  - Derek Pickard
+  - Gudrun Wiklund
+  - Ann-Mari Svennerholm
+  - "\xC5sa Sj\xF6ling"
+  - Gordon Dougan
+  publisher: Nature Genetics
+  date: '2014-11-10'
+  link: https://doi.org/f25c9p
+  orcid: 0000-0002-2167-1394
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00262-014-1555-6
+  title: Altered chemokine production and accumulation of regulatory T cells in intestinal
+    adenomas of APCMin/+ mice
+  authors:
+  - Paulina Akeus
+  - Veronica Langenes
+  - Astrid von Mentzer
+  - Ulf Yrlid
+  - "\xC5sa Sj\xF6ling"
+  - Pushpa Saksena
+  - Sukanya Raghavan
+  - "Marianne Quiding-J\xE4rbrink"
+  publisher: Cancer Immunology, Immunotherapy
+  date: '2014-04-29'
+  link: https://doi.org/f23dqs
+  orcid: 0000-0002-2167-1394
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0035827
+  title: Expression of Colonization Factor CS5 of Enterotoxigenic Escherichia coli
+    (ETEC) Is Enhanced In Vivo and by the Bile Component Na Glycocholate Hydrate
+  authors:
+  - Matilda Nicklasson
+  - "\xC5sa Sj\xF6ling"
+  - Astrid von Mentzer
+  - Firdausi Qadri
+  - Ann-Mari Svennerholm
+  publisher: PLoS ONE
+  date: '2012-04-30'
+  link: https://doi.org/f24394
+  orcid: 0000-0002-2167-1394
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -70,9 +182,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -89,21 +198,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources_example.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
@@ -114,7 +210,7 @@
   link: https://doi.org/gg7m48
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
-  file: sources.yaml
+  file: sources_example.yaml
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
@@ -130,4 +226,4 @@
   link: https://doi.org/ckcj
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
-  file: sources.yaml
+  file: sources_example.yaml
