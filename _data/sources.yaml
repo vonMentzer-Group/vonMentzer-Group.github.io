@@ -20,6 +20,29 @@
 
 - id: doi:10.1038/s41598-021-88316-2
   image: images/long-read_refs.png
+  
+- id: doi:10.1080/21505594.2020.1749497
+  image: images/CS30_sulfatide.png
 
+- id: doi:10.1371/journal.pone.0209357
+  image: images/bacteriphages.png
+
+- id: doi:10.1038/s41598-017-12743-3
+  image: images/CS30.png
+
+-id: doi:10.1099/mgen.0.000121
+  inage: images/Oag_iguchi.png
+  
+- id: doi:10.1016/j.ijmm.2016.05.016
+  image: images/ST_joffre.png
+
+- id: doi:10.1371/journal.pone.0152899
+  image: images/CS6_stability.png
+  
+- id: doi:10.1002/eji.201445058
+  image: images/treg_2015.png
+  
+- id: doi:10.1038/ng.3145
+  image: images/long-read_refs.png
 
 
