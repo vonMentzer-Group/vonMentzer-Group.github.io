@@ -134,8 +134,8 @@
   date: '2014-11-10'
   link: https://doi.org/f25c9p
   orcid: 0000-0002-2167-1394
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources_example.yaml
 - id: doi:10.1007/s00262-014-1555-6
   title: Altered chemokine production and accumulation of regulatory T cells in intestinal
     adenomas of APCMin/+ mice
@@ -169,6 +169,108 @@
   orcid: 0000-0002-2167-1394
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2023.04.11.536449
+  title: Construction of the ETECFinder database for the characterisation of enterotoxigenic<i>Escherichia
+    coli</i>(ETEC) and revision of the<i>VirulenceFinder</i>webtool at the CGE website
+  authors:
+  - Flemming Scheutz
+  - Camilla Hald Nielsen
+  - Astrid von Mentzer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-11'
+  link: https://doi.org/gr6t7r
+  plugin: sources.py
+  file: sources_example.yaml
+- id: doi:10.1101/2023.02.08.527665
+  title: Circulation of enterotoxigenic Escherichia coli (ETEC) isolates expressing
+    CS23 from the environment to clinical settings
+  authors:
+  - Carla Calderon Toledo
+  - Astrid von Mentzer
+  - Jorge Agramont
+  - Kaisa Thorell
+  - Yingshun Zhou
+  - "Mikl\xF3s Szab\xF3"
+  - Patricia Colque
+  - Inger Kuhn
+  - "Sergio Guti\xE9rrez-Cortez"
+  - "Enrique Joffr\xE9"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-10'
+  link: https://doi.org/gr6t7s
+  plugin: sources.py
+  file: sources_example.yaml
+- id: doi:10.1128/mra.00416-22
+  title: Draft Genome Sequence of an Enterotoxigenic Escherichia coli Strain Carrying
+    Genes for Colonization Surface Antigen 13 and a Heat-Labile Toxin
+  authors:
+  - Samuel M. Njoroge
+  - "Laure F. Mad\xE9"
+  - Astrid von Mentzer
+  - Benard W. Kulohoma
+  - Timothy K. Kamanu
+  - Tom T. Ouko
+  - John Kiiru
+  - Melissa J. Ward
+  - Nicholas R. Thomson
+  - "Eric M. F\xE8vre"
+  - Mark Woolhouse
+  - Samuel Kariuki
+  publisher: Microbiology Resource Announcements
+  date: '2022-10-20'
+  link: https://doi.org/gqxgzf
+  plugin: sources.py
+  file: sources_example.yaml
+- id: doi:10.1038/s41598-021-88316-2
+  title: Long-read-sequenced reference genomes of the seven major lineages of enterotoxigenic
+    Escherichia coli (ETEC) circulating in modern time
+  authors:
+  - Astrid von Mentzer
+  - Grace A. Blackwell
+  - Derek Pickard
+  - Christine J. Boinett
+  - "Enrique Joffr\xE9"
+  - Andrew J. Page
+  - Ann-Mari Svennerholm
+  - Gordon Dougan
+  - "\xC5sa Sj\xF6ling"
+  publisher: Scientific Reports
+  date: '2021-04-29'
+  link: https://doi.org/gjw69r
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-88316-2/MediaObjects/41598_2021_88316_Fig1a_HTML.png?as=webp
+  plugin: sources.py
+  file: sources_example.yaml
+- id: doi:10.1080/21505594.2020.1749497
+  title: Colonization factor CS30 from enterotoxigenic <i>Escherichia coli</i> binds
+    to sulfatide in human and porcine small intestine
+  authors:
+  - Astrid Von Mentzer
+  - Dani Zalem
+  - Zofia Chrienova
+  - Susann Teneberg
+  publisher: Virulence
+  date: '2020-04-14'
+  link: https://doi.org/gjq6n8
+  plugin: sources.py
+  file: sources_example.yaml
+- id: doi:10.1371/journal.pone.0209357
+  title: Phenotypic and genomic analyses of bacteriophages targeting environmental
+    and clinical CS3-expressing enterotoxigenic Escherichia coli (ETEC) strains
+  authors:
+  - Sajib Chakraborty
+  - Astrid von Mentzer
+  - Yasmin Ara Begum
+  - Mehnaz Manzur
+  - Mahmudul Hasan
+  - Amar N. Ghosh
+  - M. Anwar Hossain
+  - Andrew Camilli
+  - Firdausi Qadri
+  publisher: PLOS ONE
+  date: '2018-12-20'
+  link: https://doi.org/gjb6kk
+  plugin: sources.py
+  file: sources_example.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
