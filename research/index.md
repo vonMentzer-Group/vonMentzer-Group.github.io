@@ -10,6 +10,11 @@ Pathogenic _Escherichia coli_ (_E. coli_) causing diarrhoea kills over half a mi
 
 In the light of these realities, the goal of the research in the von Mentzer Group is to unravel the transmission dynamics of isolates between different hosts and the transmission of genetic elements that drive virulence and resistance in bacteria. To do this, we use data-driven genomics for high-throughput and large-scale analysis and where needed, followed by experimental corroboration. The previous research by Astrid von Mentzer centred around the major diarrhoea-causing enterotoxigenic _Escherichia coli_ (ETEC) bacteria provides the cornerstones from which I will focus on the evolution and emergence of pathogenic bacteria with a link to how vaccines can confer broad protection against different bacterial variants and identify the drivers behind their emergence in humans and animals.
 
+Funded by the Research Council and Sahlgrenska Academy, our research group combines computational and experimental approaches to understand the evolution of _E. coli_ pathotypes and hybrid pathotypes, as well as investigating the evolution and diversity of antibiotic resistance and virulence genes and their species dynamics. Our main focus areas are:
+
+- Applying large-scale genomics methodologies to investigate the evolution pf pathogenic _E. coli_
+- Using a 'One Health' approach to study the transmission of enterotoxigenic _E. coli_ across ecological niches
+- Combinding genomic predictions with experimental methodlogies to validate findings
 
 {% include section.html %}
 
