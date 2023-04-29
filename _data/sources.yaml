@@ -1,19 +1,17 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi: 10.1038/ng.3145
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
+  description: Whole-genome sequencing of a representative collection of ETEC isolated between 1980 and 2011 identified globally distributed lineages characterized by distinct colonization factor and enterotoxin profiles. Contrary to current notions, these relatively recently emerged lineages might harbor chromosome and plasmid combinations that optimize fitness and transmissibility. 
+  date: 2014-11-10
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
-    - type: manubot
+    - type: Original article
       link: https://greenelab.github.io/meta-review/
     - type: source
       text: Manuscript Source
       link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
   tags:
-    - open science
-    - collaboration
+    - ETEC
+    - evolution
   repo: greenelab/meta-review
 
 - id: doi:10.1016/j.csbj.2020.05.017
