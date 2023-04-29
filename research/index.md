@@ -20,7 +20,7 @@ Funded by the Research Council and Sahlgrenska Academy, our research group combi
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="10.1101/2023.04.11.536449" style="rich" %}
 
 {% include section.html %}
 
