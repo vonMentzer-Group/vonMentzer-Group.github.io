@@ -20,12 +20,9 @@ We work with a wide range of outstanding groups and awesome researchers from aro
 
 {% include section.html %}
 
+## Funding
+
 {% capture content %}
+[![Gordon and Betty Moore Foundation](/images/team/gordon-and-betty-moore-foundation.png)](https://www.moore.org/)
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+[![National Cancer Institute](/images/team/national-cancer-institute.png)](https://www.cancer.gov/)
