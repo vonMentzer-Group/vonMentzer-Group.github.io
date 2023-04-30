@@ -34,7 +34,7 @@ The research in the von Mentzer Group is focused on the study of bacterial evolu
 
 {% capture text %}
 
-We have multiple on-going projects covering aspects of bacterial evolution with a focus on pathogeni _E. coli_. The data we use and generate is pushed to be open source and freely accessible. 
+We have multiple on-going projects covering aspects of bacterial evolution with a focus on pathogenic _E. coli_. The data we use and generate is pushed to be open source and freely accessible. 
 
 {%
   include button.html
@@ -59,7 +59,7 @@ We have multiple on-going projects covering aspects of bacterial evolution with 
 
 {% capture text %}
 
-We are a small team recently established at the Sahlgrenska Academy, Department of Microbiology and Immunology. We strive to build a diverse team where we emmbrace our differences and create space for innovation. We are funded by mutliple funders including the Research Council and Sahlgrenska Academy. 
+We are a small team recently established at the Sahlgrenska Academy, Department of Microbiology and Immunology. We strive to build a diverse team where we emmbrace our differences and create space for innovation. We are funded by multiple funders including the Research Council and Sahlgrenska Academy. 
 
 {%
   include button.html
