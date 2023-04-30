@@ -3,7 +3,7 @@
 name: Astrid von Mentzer
 image: images/Porträtt_D3A7840-1-01.jpg
 description: Principal Investigator
-role: Group Leader
+role: pi
 aliases:
   - A. von Mentzer
   - A von Mentzer
