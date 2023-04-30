@@ -1,9 +1,9 @@
 ---
 ---
 
-# vonMentzer-Group's Website
+# Microbial Genomics meets Functional Microbiology
 
-An engaging 1-3 sentence description of your lab.
+The von Mentzer Group is a team of researchers at the University of Gothenburg, Sahlgrenska Academy dedicated to answering important questions in bacterial evolution using a combination of computational and experimental methodologies. We focus on bringing together publicly available big data, and collecting new data from collaborations worldwide with the aim to make our data and tools freely available and openly licensed for other researchers to use and extend our work.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Testing 1
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See what we've published"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,13 +28,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Functional genomics"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have multiple on-going projects covering aspects of bacterial evolution with a focus on pathogeni _E. coli_. The data we use and generate is pushed to be open source and freely accessible. 
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a small team recently established at the Sahlgrenska Academy, Department of Microbiology and Immunology. We strive to build a diverse team where we emmbrace our differences and create space for innovation. We are funded by mutliple funders including the Research Council and Sahlgrenska Academy. 
 
 {%
   include button.html
