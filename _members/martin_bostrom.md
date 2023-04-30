@@ -1,8 +1,8 @@
 ---
 name: Martin Boström
 image: images/Martin_B_photo.jpg
-description: Post-doc
-role: Lead bioinformatician
+description: Postdoctoral Researcher
+role: postdoc
 aliases:
   - M. Boström
   - M Boström
