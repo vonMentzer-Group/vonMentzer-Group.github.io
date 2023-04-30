@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-If you are interested in joining our team feel free to get in touch with a CV and cover letter/statement explaining your interest in our research, so we can discuss future opportunities. 
+We are a small but enthusiastic team and we foster an environment where team members are treated equally, and where we respect and admire our differences.  If you are interested in joining our team feel free to get in touch with a CV and cover letter/statement explaining your interest in our research, so we can discuss future opportunities. 
 
 {% include section.html %}
 
