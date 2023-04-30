@@ -16,9 +16,7 @@ We are a small but enthusiastic team and we foster an environment where team mem
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We work with a wide range of outstanding groups and awesome researchers from around the world, and we’re always on the lookout for new and unique perspectives. 
 
 {% include section.html %}
 
