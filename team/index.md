@@ -11,12 +11,24 @@ We are a small but enthusiastic team and we foster an environment where team mem
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
 We work with a wide range of outstanding groups and awesome researchers from around the world, and we’re always on the lookout for new and unique perspectives. 
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="Join the Team"
+  link="join"
+  style="button"
+%}
 
 {% include section.html %}
 
