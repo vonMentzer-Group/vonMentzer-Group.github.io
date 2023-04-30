@@ -49,7 +49,7 @@ We have multiple on-going projects covering aspects of bacterial evolution with 
 
 {%
   include feature.html
-  image="images/coding_bacteria.jpg"
+  image="images/bacteria that c 0.png"
   link="projects"
   title="Our Projects"
   flip=true
