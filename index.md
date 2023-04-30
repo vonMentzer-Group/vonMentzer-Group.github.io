@@ -26,7 +26,7 @@ Testing 1
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/orange2_E873_front_160407.tif"
   link="research"
   title="Functional genomics"
   text=text
