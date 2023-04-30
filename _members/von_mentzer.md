@@ -4,7 +4,7 @@ aliases:
   - Astrid von Mentzer
   - A. von Mentzer
   - A von mentzer
-image: images/astridvonmenzter.jpg
+image: images/Porträtt_D3A7840-1-01.jpg
 role: pi
 links:
   orcid: 0000-0002-2167-1394
