@@ -49,7 +49,7 @@ We have multiple on-going projects covering aspects of bacterial evolution with 
 
 {%
   include feature.html
-  image="images/female_scientist.png"
+  image="images/bacteria_that_code.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ We are a small team recently established at the Sahlgrenska Academy, Department 
 
 {%
   include feature.html
-  image="images/bacteria_that_code.png"
+  image="images/group_anime.png"
   link="team"
   title="Our Team"
   text=text
