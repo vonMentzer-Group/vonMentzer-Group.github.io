@@ -11,7 +11,7 @@ The von Mentzer Group is a team of researchers at the University of Gothenburg, 
 
 {% capture text %}
 
-The research in the von Mentzer Group is focused on the study of bacterial evolution, specifically the evolution of pathogenic _E. coli_, such as enterotoxgenic _Escherichia coli_ (ETEC). One of the many virulence factors that bacteria express are adhesins, also called colonisation factors. These are proteinaceous outer membrane structures that allow tha bacteria to adhere to the host cells. Some of these colonisation factors have been well-studied, such as the Type I fimbriae in _E. coli_ causing urinary tract infections, however in ETEC there is a battery of colonisation factors that we know quite little about. We use genomic approached to study sequenced E. coli genomes, including ETEC to investigate the diversity of these colonisation factors including their mobile genetic elements. In addition to viurlence genes, we have an interest in antibiotic resistance with the aim to investigate the plasmids carrying resistance genes and field that currently is expanding. The genomic findingds guide the experimental approaches to investigate the functionality of, for example a putative colonisation factor. 
+The research in the von Mentzer Group is focused on the study of bacterial evolution, specifically the evolution of pathogenic _E. coli_, such as enterotoxgenic _Escherichia coli_ (ETEC). One of the many virulence factors that bacteria express are adhesins, also called colonisation factors. These are proteinaceous outer membrane structures that allow tha bacteria to adhere to the host cells. In ETEC there is a battery of colonisation factors that we know quite little about. We use genomic approached to study sequenced _E. coli_ genomes, including ETEC to investigate the diversity of these colonisation factors including their mobile genetic elements. In addition to viurlence genes, we have an interest in antibiotic resistance with the aim to investigate the plasmids carrying resistance genes and field that currently is expanding. The genomic findings guide the experimental approaches to investigate the functionality of, for example a putative colonisation factor. 
 
 {%
   include button.html
@@ -49,7 +49,7 @@ We have multiple on-going projects covering aspects of bacterial evolution with 
 
 {%
   include feature.html
-  image="images/bacteria_that_code.png"
+  image="images/female_scientist.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ We are a small team recently established at the Sahlgrenska Academy, Department 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bacteria_that_code.png"
   link="team"
   title="Our Team"
   text=text
