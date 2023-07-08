@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: vonMentzer-Group
+title: vonMentzer-Lab
 subtitle: 
 description: Website of the von Mentzer Group at the University of Gothenburg, led by Dr Astrid von Mentzer.
 header: images/orange2_E873_front_160407.tif
@@ -10,9 +10,9 @@ links:
   email: astrid.von.mentzer@gu.se
   orcid: 0000-0002-2167-1394
   google-scholar: https://scholar.google.com/citations?user=XWiC4SAAAAAJ&hl=en
-  github: vonMentzer-Group
-  #twitter: vonMentzer-Group
-  #LinkedIn: vonMentzer-Group
+  github: vonMentzer-Lab
+  #twitter: vonMentzer-Lab
+  #LinkedIn: vonMentzer-Lab
   #YouTube: XYZ
 
 ### jekyll settings
