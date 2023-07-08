@@ -1,5 +1,5 @@
 
-# vonMentzer-Group's Website
+# vonMentzer-Labs's Website
 
 Visit **[vonmentzer-group.github.io](https://vonmentzer-group.github.io)** 🚀
 
