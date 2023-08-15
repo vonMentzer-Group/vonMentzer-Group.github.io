@@ -3,7 +3,7 @@
 
 # Microbial Genomics meets Functional Microbiology
 
-The von Mentzer Group is a team of researchers at the University of Gothenburg, Sahlgrenska Academy dedicated to answering important questions in bacterial evolution using a combination of computational and experimental methodologies. We focus on bringing together publicly available big data, and collecting new data from collaborations worldwide with the aim to make our data and tools freely available and openly licensed for other researchers to use and extend our work.
+The von Mentzer Lab is a team of researchers at the University of Gothenburg, Sahlgrenska Academy dedicated to answering important questions in bacterial evolution using a combination of computational and experimental methodologies. We focus on bringing together publicly available big data, and collecting new data from collaborations worldwide with the aim to make our data and tools freely available and openly licensed for other researchers to use and extend our work.
 
 {% include section.html %}
 
