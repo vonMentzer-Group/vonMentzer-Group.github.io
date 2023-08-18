@@ -3,7 +3,7 @@
 {:.center}
 <h3>Exciting news - the von Mentzer Lab is expanding - we are now looking for a postdoc interested in microbial genomics! For more info <a href="http://vonmentzerlab.com/join/">click here!</a></h3>
 {:.center}
-<h3>MSc projects are continously available!</h3>
+<h3>Contact us if you are looking for MSc/Erasmus projects - multiple projects available!</h3>
 
 # Microbial Genomics meets Functional Microbiology
 
