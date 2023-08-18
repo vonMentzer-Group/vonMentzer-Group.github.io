@@ -27,7 +27,7 @@ To apply, provide a CV, a one page statement of research interests and you rmoti
 
 ### Graduate Students
 
-Graduate students who are interested in joining the team depend on the existing funds. If you are from abroad and. willing to apply for you own funding to join the team please contact Astrid von Menzter to set up a time for further discussion.
+Graduate students who are interested in joining the team depend on the existing funds. If you are from abroad and willing to apply for you own funding to join the team please contact Astrid von Menzter to set up a time for further discussion.
 
 We aim to assist our students in acquiring a thorough grasp of the computational techniques necessary for data-heavy scientific research or expand their comprehension of experimental methodologies to validate genomic findings. Members are encourage to try both the computation and biolgical side of research.
 To achieve this, we offer extensive training opportunities, including both group and individual meetings, and an encouraging laboratory setting.
