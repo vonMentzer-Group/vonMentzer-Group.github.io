@@ -1,7 +1,7 @@
 ---
 ---
 
-Exciting news - the von Mentzer Lab is expanding - we are now looking for a postdoc interested in microbial genomics! For more info click here!
+<h3>Exciting news - the von Mentzer Lab is expanding - we are now looking for a postdoc interested in microbial genomics! For more info <a href="http://vonmentzerlab.com/join/">click here!</a></h3>
 
 # Microbial Genomics meets Functional Microbiology
 
