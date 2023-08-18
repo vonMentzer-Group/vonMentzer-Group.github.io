@@ -4,11 +4,14 @@ title: Join the Team
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
-### Postdoctoral Researchers - Scholarship available - Apply now
+### Postdoctoral Researchers - Scholarship available - Apply now!
+
+We are expanding - Are you interested in doing a postdoc in microbial genomics with a focus on virulence and antimicrobial resistance please apply!
+
+For more information: https://www.nature.com/naturecareers/job/12804554/postdoctoral-scholarship-in-enterotoxigenic-e-coli-etec-genomics-and-evolution/
 
 The von Mentzer Group welcomes postdoctoral researchers who is interested in joining the team and willing to apply for their own funding, for example Marie-Curie Fellow Postdoc Grant or similar. 
 Please contact Astrid von Mentzer to set up a time to discuss your interest.
-
 
 #### Qualifications
 
@@ -20,7 +23,7 @@ Please contact Astrid von Mentzer to set up a time to discuss your interest.
 
 #### Applying
 
-To apply, provide a CV, a one to two page statement of research interests, and the names and contact information for two-three references. After you've sent your CV and statement please contact Astrid von Mentzer to set up a time to discuss your interest.
+To apply, provide a CV, a one page statement of research interests and you rmotivation for applying, and the names and contact information for two-three references. After you've sent your CV and statement please contact Astrid von Mentzer to set up a time to discuss your interest. Email: astrid.von.mentzer@gu.se
 
 ### Graduate Students
 
