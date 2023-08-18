@@ -35,8 +35,7 @@ We work with a wide range of outstanding groups and awesome researchers from aro
 ## Funding
 
 {% capture content %}
-[![Gordon and Betty Moore Foundation](/images/team/gordon-and-betty-moore-foundation.png)](https://www.moore.org/)
-
-[![National Cancer Institute](/images/team/national-cancer-institute.png)](https://www.cancer.gov/)
-
+Starting Grant from The Research Council (Vetenskapsådet)
+Sahlgrenska Academy International Starting Grant
+Åke Wibergs Foundation
 {% endcapture %}
