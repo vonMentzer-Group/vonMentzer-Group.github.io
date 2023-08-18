@@ -4,7 +4,7 @@ title: Join the Team
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
-### Postdoctoral Researchers
+### Postdoctoral Researchers - Scholarship available - Apply now
 
 The von Mentzer Group welcomes postdoctoral researchers who is interested in joining the team and willing to apply for their own funding, for example Marie-Curie Fellow Postdoc Grant or similar. 
 Please contact Astrid von Mentzer to set up a time to discuss your interest.
