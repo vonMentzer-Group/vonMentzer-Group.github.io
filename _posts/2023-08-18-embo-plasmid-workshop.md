@@ -1,6 +1,6 @@
 ---
-title: Exploring AMR: We will participate in the EMBO Plasmid Workshop
-author: Astrid von Mentzer
+title:Exploring AMR: We will participate in the EMBO Plasmid Workshop
+author:Astrid von Mentzer
 ---
 <br>
 <br>
