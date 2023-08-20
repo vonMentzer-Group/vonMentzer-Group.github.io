@@ -13,9 +13,9 @@ For more information: [Click here!](https://www.nature.com/naturecareers/job/128
 The von Mentzer Group welcomes postdoctoral researchers who is interested in joining the team and willing to apply for their own funding, for example Marie-Curie Fellow Postdoc Grant or similar. 
 Please contact Astrid von Mentzer to set up a time to discuss your interest.
 
-#### Qualifications
+#### General Qualifications for Postdocs and PhD-candidates
 
-1. Candidates are expected to have an MD, PhD, or equivalent, with a strong background in bioinformatics, microbiology or closely related field and at least some programming experience.
+1. Postdoc candidates are expected to have an MD, PhD, or equivalent, with a strong background in bioinformatics, microbiology or closely related field and at least some programming experience. PhD-candidates are expected to have a MSc or equivalent in Molecular Biology, Microbiology, Bioinformatics, Computational or Systems Biology, or a related field.
 
 2. The ideal candidate will have a track record of scientific productivity and leadership, and will strive for robust and reproducible analytical workflows.
 
