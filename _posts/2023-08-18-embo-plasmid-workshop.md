@@ -5,7 +5,7 @@ author: Astrid von Mentzer
 
 We're excited to share a lab update! I am gearing up for the EMBO Workshop, a deep dive into plasmid evolution and its connection to antimicrobial resistance (AMR).
 
-Decoding Antibiotic Resistance Spread
+**bold**Decoding Antibiotic Resistance Spread
 
 Antimicrobial resistance is a global challenge, with bacteria becoming resistant to antibiotics. Plasmids, tiny genetic carriers, play a role by shuttling resistance genes between bacteria.
 
