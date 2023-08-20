@@ -8,7 +8,7 @@ title: Join the Team
 
 We are expanding - Are you interested in doing a postdoc in microbial genomics with a focus on virulence and antimicrobial resistance please apply!
 
-For more information: <a href="https://www.nature.com/naturecareers/job/12804554/postdoctoral-scholarship-in-enterotoxigenic-e-coli-etec-genomics-and-evolution/" target="_blank">Click here!</a>
+For more information: [Click here!](https://www.nature.com/naturecareers/job/12804554/postdoctoral-scholarship-in-enterotoxigenic-e-coli-etec-genomics-and-evolution/)
 
 The von Mentzer Group welcomes postdoctoral researchers who is interested in joining the team and willing to apply for their own funding, for example Marie-Curie Fellow Postdoc Grant or similar. 
 Please contact Astrid von Mentzer to set up a time to discuss your interest.
@@ -23,7 +23,7 @@ Please contact Astrid von Mentzer to set up a time to discuss your interest.
 
 #### Applying
 
-To apply, provide a CV, a one page statement of research interests and you rmotivation for applying, and the names and contact information for two-three references. After you've sent your CV and statement please contact Astrid von Mentzer to set up a time to discuss your interest. Email: astrid.von.mentzer@gu.se
+To apply, provide a CV, a statement of research interests and your motivation for applying (maximum 1 page), and the names and contact information for two-three references. After you've sent your CV and statement please contact Astrid von Mentzer to set up a time to discuss your interest. Email: astrid.von.mentzer@gu.se
 
 ### Graduate Students
 
