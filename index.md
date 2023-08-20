@@ -10,7 +10,6 @@ The von Mentzer Lab is a team of researchers at the University of Gothenburg, Sa
 
 {% include section.html %}
 
-## Highlights
 
 {% capture text %}
 
@@ -37,12 +36,12 @@ The research in the von Mentzer Lab is focused on the study of bacterial evoluti
 
 {% capture text %}
 
-We have multiple on-going projects covering aspects of bacterial evolution with a focus on pathogenic _E. coli_. The data we use and generate is pushed to be open source and freely accessible. 
+We have multiple on-going projects covering aspects of bacterial evolution with a focus on pathogenic _E. coli_. The data we use and generate is pushed to be open source and freely accessible. Are you interested in joining the team, contact Astrid von Mentzer and we can discuss further.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Contact"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -62,7 +61,7 @@ We have multiple on-going projects covering aspects of bacterial evolution with 
 
 {% capture text %}
 
-We are a small team recently established at the Sahlgrenska Academy, Department of Microbiology and Immunology. We strive to build a diverse team where we emmbrace our differences and create space for innovation. We are funded by multiple funders including the Research Council and Sahlgrenska Academy. 
+We are a small team recently established at the Sahlgrenska Academy, Department of Microbiology and Immunology. We strive to build a diverse team where we emmbrace our differences and create space for innovation. We are funded by multiple funders including the [The Research Council](https://www.vr.se/), Sahlgrenska Academy and Åke Wiberg . 
 
 {%
   include button.html
