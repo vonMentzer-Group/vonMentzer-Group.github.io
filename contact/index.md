@@ -8,6 +8,8 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 The von Mentzer-Group is based in the Department of Microbiology and immunology at Sahlgrenska Academy, Institute of Biomedicine, University of Gothenburg. We are located on the 5th floor.
+<br>
+**Are you interested in joining the team, we are looking for a postdoc and MSc and Erasmus-student. Please read more about getting in contact with us [here](/join-the-lab)!
 
 {%
   include button.html
