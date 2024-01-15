@@ -69,8 +69,8 @@
   file: sources.yaml
   image: images/CS6_stability.png
 - id: doi:10.1002/eji.201445058
-  title: Treg-cell depletion promotes chemokine production and accumulation of CXCR3<sup>+</sup>conventional
-    T cells in intestinal tumors
+  title: "Treg\u2010cell depletion promotes chemokine production and accumulation\
+    \ of CXCR3<sup>+</sup> conventional T cells in intestinal tumors"
   authors:
   - Paulina Akeus
   - Veronica Langenes
@@ -78,7 +78,7 @@
   - Astrid von Mentzer
   - Tim Sparwasser
   - Sukanya Raghavan
-  - "Marianne Quiding-J\xE4rbrink"
+  - "Marianne Quiding\u2010J\xE4rbrink"
   publisher: European Journal of Immunology
   date: '2015-04-14'
   link: https://doi.org/f27dvg
