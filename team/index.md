@@ -6,6 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
+<div align="center">{% include icon.html icon="fa-solid fa-users" %} **Team**</div>
 
 We are a small but enthusiastic team and we foster an environment where team members are treated equally, and where we respect and admire our differences.  If you are interested in joining our team feel free to get in touch with a CV and cover letter/statement explaining your interest in our research, so we can discuss future opportunities. 
 
@@ -32,7 +33,7 @@ We work with a wide range of outstanding groups and awesome researchers from aro
 
 {% include section.html %}
 
-## Funding
+## Alumni
 
 {% capture content %}
 Starting Grant from The Research Council (Vetenskapsådet)
