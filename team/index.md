@@ -37,8 +37,9 @@ We work with a wide range of outstanding groups and awesome researchers from aro
 
 ## Alumni
 
-{% capture content %}
-Starting Grant from The Research Council (Vetenskapsådet)
-Sahlgrenska Academy International Starting Grant
-Åke Wibergs Foundation
-{% endcapture %}
+{% include list.html data="alumni" component="portrait" filters="role: technician, group: " %}
+{% include list.html data="alumni" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="alumni" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="alumni" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="alumni" component="portrait" filters="role: intern, group: " %}
+{% include list.html data="alumni" component="portrait" filters="role: mascot, group: " %}
