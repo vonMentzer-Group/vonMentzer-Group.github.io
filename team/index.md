@@ -37,6 +37,8 @@ We work with a wide range of outstanding groups and awesome researchers from aro
 
 ## Alumni
 
+{% include section.html %}
+
 {% include list.html data="alumni" component="portrait" filters="role: technician, group: " %}
 {% include list.html data="alumni" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="alumni" component="portrait" filters="role: phd, group: " %}
