@@ -5,7 +5,7 @@ role: undergrad
 description: MSc-student
 
 links:
-  [Anna Norén at LinkedIn]([https://some-website.org/](https://www.linkedin.com/in/anna-nor%C3%A9n-984b65149/))
+  [Anna Norén at LinkedIn]([https://some-website.org/](https://www.linkedin.com/in/anna-nor%C3%A9n-984b65149/)
 ---
 
 
