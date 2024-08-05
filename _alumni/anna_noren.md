@@ -5,8 +5,8 @@ role: undergrad
 description: MSc-student
 
 links:
-  email: norena@student.chalmers.se
+  [Anna Norén at LinkedIn]([https://some-website.org/](https://www.linkedin.com/in/anna-nor%C3%A9n-984b65149/))
 ---
 
-Anna Norén is a talented MSc student currently working with the von Mentzer Group. Her current project involves investigating the population structure of enterotoxigenic Escherichia coli (ETEC) from a variety of different hosts. As she finalizes her MSc report, Anna is eagerly seeking the next step in her career. If you require the skills of a dedicated bioinformatician who is easy to work with, don't hesitate to contact Anna. She would be an asset to any team.
+
 
