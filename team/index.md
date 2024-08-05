@@ -13,9 +13,11 @@ We are a small but enthusiastic team and we foster an environment where team mem
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: technician, group: " %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: intern, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
 
