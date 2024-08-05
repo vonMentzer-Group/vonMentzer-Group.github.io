@@ -1,8 +1,9 @@
 ---
 name: Sindhu Ghimire
 image: images/Sindhu_circle.png
-description: Intern in the lab
-role: Intern
+role: intern
+description: Intern
+
 
 links:
   email: shiyaaghimire@gmail.com
