@@ -1,6 +1,6 @@
 ---
 name: Jeslin Varghese
-image: images/jeslin
+image: images/jeslin_circle.png
 role: Technician
 description: Lab manager
 
