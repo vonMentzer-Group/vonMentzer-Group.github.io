@@ -37,7 +37,7 @@ We work with a wide range of outstanding groups and awesome researchers from aro
 
 ## Alumni
 
-{% include section.html %}
+Gone but not forgotten. These are past lab members who have moved on to new adventures. They have all made lasting contributions to science and to our hearts. 
 
 {% include list.html data="alumni" component="portrait" filters="role: technician, group: " %}
 {% include list.html data="alumni" component="portrait" filters="role: postdoc, group: " %}
