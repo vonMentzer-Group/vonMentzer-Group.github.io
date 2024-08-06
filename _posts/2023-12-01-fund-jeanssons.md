@@ -1,6 +1,6 @@
 ---
 title: von Mentzer Lab receives funding from Jeanssons Stiftelse
-author: astrid_vonmentzer
+author: Astrid von Mentzer
 tags: funding
 ---
 
