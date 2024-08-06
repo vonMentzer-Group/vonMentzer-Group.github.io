@@ -1,6 +1,6 @@
 ---
 name: Pablo Sanz Piňa
-image: images/Anna.noren_cut-01.png
+image: images/pablo_circle.png
 role: undergrad
 description: MSc-student
 ---
