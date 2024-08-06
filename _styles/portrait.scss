@@ -29,6 +29,10 @@
   text-align: left;
 }
 
+.portrait[data-style="alumni"] {
+  width: 125px; /* Smaller size for alumni */
+}
+
 .portrait-image {
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -39,6 +43,10 @@
 
 .portrait[data-style="tiny"] .portrait-image {
   width: 50px;
+}
+
+.portrait[data-style="alumni"] .portrait-image {
+  width: 100%;
 }
 
 .portrait[data-style="tiny"] .portrait-role {
