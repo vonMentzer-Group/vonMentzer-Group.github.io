@@ -1,6 +1,7 @@
 ---
 title: Welcome New Lab Manager - Jeslin Varghese
 author: Astrid von Mentzer
+tags: newcomers
 ---
 <br>
 We are happy to announce that Jeslin Varghese has joined the von Mentzer Lab as our new Lab Manager. Jeslin initially joined us as an intern through Jobbsprånget and has now transitioned into this new role.
