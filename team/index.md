@@ -39,9 +39,9 @@ We work with a wide range of outstanding groups and awesome researchers from aro
 
 Gone but never forgotten. Our former lab members have ventured into new paths, but their contributions to our science and our group remain invaluable. They will always hold a special place in our hearts and our journey. Once a member of the von Mentzer Lab, always a member.
 
-{% include list.html data="alumni" component="portrait" filters="role: technician, group: " %}
-{% include list.html data="alumni" component="portrait" filters="role: postdoc, group: " %}
-{% include list.html data="alumni" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="alumni" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="alumni" component="portrait" filters="role: intern, group: " %}
-{% include list.html data="alumni" component="portrait" filters="role: mascot, group: " %}
+{% include list.html data="alumni" component="portrait" filters="role: technician, group: " data-style="alumni" %}
+{% include list.html data="alumni" component="portrait" filters="role: postdoc, group: " data-style="alumni" %}
+{% include list.html data="alumni" component="portrait" filters="role: phd, group: " data-style="alumni" %}
+{% include list.html data="alumni" component="portrait" filters="role: undergrad, group: " data-style="alumni" %}
+{% include list.html data="alumni" component="portrait" filters="role: intern, group: " data-style="alumni" %}
+{% include list.html data="alumni" component="portrait" filters="role: mascot, group: " data-style="alumni" %}
