@@ -1,6 +1,7 @@
 ---
 title: Welcome Esmee and Melek - new students!
 author: Astrid von Mentzer
+tags: newcomers
 ---
 <br>
 We are delighted to welcome two new students to the von Mentzer Lab!
