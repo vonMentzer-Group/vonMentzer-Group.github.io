@@ -1,7 +1,7 @@
 ---
 ---
 {:.center}
-<h3>Exciting news - the von Mentzer Lab is expanding - we are now looking for a postdoc interested in microbial genomics! For more info <a href="http://vonmentzerlab.com/join/">click here!</a> Contact us if you are looking for MSc/Erasmus projects - multiple projects available!</h3>
+<h3>Amazing news - Astrid von Mentzer, PI of von Mentzer Lab, has recieved a huge grant and joined as a DDLS-fellow. We are seeking individuals (PhD-students and postdocs) with a keen interest in computational biology, particularly in the areas of microbial genomics and machine learning. For more info <a href="http://vonmentzerlab.com/join/">click here!</a></h3>
 {:.center}
 
 # Microbial Genomics meets Functional Microbiology
