@@ -16,6 +16,7 @@
   date: '2017-10-02'
   link: https://doi.org/gcjndh
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: sources.py
   file: sources.yaml
   image: images/CS30.png
@@ -31,6 +32,7 @@
   date: '2017-09-01'
   link: https://doi.org/gchxhv
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: sources.py
   file: sources.yaml
   inage: images/Oag_iguchi.png
@@ -46,6 +48,7 @@
   date: '2016-11-01'
   link: https://doi.org/f3t4sg
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: sources.py
   file: sources.yaml
   image: images/ST_joffre.png
@@ -65,6 +68,7 @@
   date: '2016-04-07'
   link: https://doi.org/f3p57n
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: sources.py
   file: sources.yaml
   image: images/CS6_stability.png
@@ -83,6 +87,7 @@
   date: '2015-04-14'
   link: https://doi.org/f27dvg
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: sources.py
   file: sources.yaml
   image: images/treg_2015.png
@@ -97,6 +102,7 @@
   date: '2014-12-26'
   link: https://doi.org/f3nt7v
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/jb.02050-14
@@ -115,6 +121,7 @@
   date: '2014-11-17'
   link: https://doi.org/f3ns55
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ng.3145
@@ -139,6 +146,7 @@
   date: '2014-11-10'
   link: https://doi.org/f25c9p
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: sources.py
   file: sources.yaml
   image: images/long-read_refs.png
@@ -158,6 +166,7 @@
   date: '2014-04-29'
   link: https://doi.org/f23dqs
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0035827
@@ -173,6 +182,7 @@
   date: '2012-04-30'
   link: https://doi.org/f24394
   orcid: 0000-0002-2167-1394
+  astrid-von-mentzer: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.04.11.536449
