@@ -185,34 +185,63 @@
   astrid-von-mentzer: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.04.11.536449
-  title: Construction of the ETECFinder database for the characterisation of enterotoxigenic<i>Escherichia
-    coli</i>(ETEC) and revision of the<i>VirulenceFinder</i>webtool at the CGE website
+- id: 10.1099/acmi.0.000885.v1
+  title: Enterotoxigenic Escherichia coli in Blantyre, Malawi
+  authors:
+  - Philip Ashton
+  - Zefaniah Joel Katuah
+  - Arnold Botomani
+  - Belson M. Kutambe
+  - Nigel A. Cunliffe
+  - Astrid von Mentzer
+  - Chisomo Msefula
+  - Khuzwayo C. Jere
+  publisher: Microbiology Society
+  date: '2024-07-24'
+  link: https://doi.org/gt5766
+  tags:
+  - ETEC
+  - Malawi
+  - Preprint
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.tim.2023.11.001
+  title: Colonization factors of human and animal-specific enterotoxigenic Escherichia
+    coli (ETEC)
+  authors:
+  - Astrid von Mentzer
+  - Ann-Mari Svennerholm
+  publisher: Trends in Microbiology
+  date: '2024-05-01'
+  link: https://doi.org/gts6x4
+  image: CFs_review.png
+  tags:
+  - ETEC virulence factors
+  - human and animal
+  - review
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1128/jcm.00570-23
+  title: "Construction of the ETECFinder database for the characterization of enterotoxigenic\n\
+    \            <i>Escherichia coli</i>\n            (ETEC) and revision of the VirulenceFinder\
+    \ web tool at the CGE website"
   authors:
   - Flemming Scheutz
   - Camilla Hald Nielsen
   - Astrid von Mentzer
-  publisher: Cold Spring Harbor Laboratory
-  date: ''
-  link: https://doi.org/gr6t7r
-  type: Preprint
-  description: New webtool for predicting ETEC virulence genes, easy and accessible
-    for researchers and clinicians. Multiple new alleles for LT and ST and an unprecedented
-    level of diversity across gene clusters encoding colonization factors.
+  publisher: Journal of Clinical Microbiology
+  date: '2024-06-12'
+  link: https://doi.org/gtzxpf
   image: images/ETECFinder.png
-  buttons:
-  - type: source
-    text: Manuscript Source
-    link: https://www.biorxiv.org/content/10.1101/2023.04.11.536449v1.abstract
   tags:
   - ETEC virulence factors
   - open science
   - collaboration
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.02.08.527665
-  title: Circulation of enterotoxigenic Escherichia coli (ETEC) isolates expressing
-    CS23 from the environment to clinical settings
+- id: 10.1128/msystems.00141-23
+  title: "Circulation of enterotoxigenic\n            <i>Escherichia coli</i>\n  \
+    \          (ETEC) isolates expressing CS23 from the environment to clinical settings"
   authors:
   - Carla Calderon Toledo
   - Astrid von Mentzer
@@ -224,9 +253,9 @@
   - Inger Kuhn
   - "Sergio Guti\xE9rrez-Cortez"
   - "Enrique Joffr\xE9"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-03-10'
-  link: https://doi.org/gr6t7s
+  publisher: mSystems
+  date: '2023-10-26'
+  link: https://doi.org/gs423q
   image: images/CS23_bolivia.png
   plugin: sources.py
   file: sources.yaml
