@@ -34,7 +34,7 @@ Our goal over the next five years is to build an interdisciplinary team comprisi
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1101/2023.04.11.536449" style="rich" %}
+{% include citation.html lookup="doi:10.1016/j.tim.2023.11.001" style="rich" %}
 
 {% include section.html %}
 
