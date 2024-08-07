@@ -61,7 +61,7 @@ We have multiple on-going projects covering aspects of bacterial evolution with 
 
 {% capture text %}
 
-We are a small team recently established at the Sahlgrenska Academy, Department of Microbiology and Immunology. We strive to build a diverse team where we emmbrace our differences and create space for innovation. We are funded by multiple funders including the [The Research Council](https://www.vr.se/), Sahlgrenska Academy and Åke Wiberg . 
+We are a small team recently established at the Sahlgrenska Academy, Department of Microbiology and Immunology. We strive to build a diverse team where we emmbrace our differences and create space for innovation. We are funded by multiple funders, including the prestigous funders Knut and Alice Wallenberg [(DDLS)](https://www.scilifelab.se/data-driven/) and [The Research Council](https://www.vr.se/). Additional funding comes from Sahlgrenska Academy, Åke Wiberg and Jeanssons Stiftelse. 
 
 {%
   include button.html
