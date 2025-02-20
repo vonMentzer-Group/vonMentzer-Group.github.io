@@ -16,4 +16,6 @@ It was a fantastic visit filled with engaging discussions, new ideas, and valuab
 Read more on about the research in [Schölmerich Lab]([https://meetings.embo.org/event/23-amr-plasmids](https://ibp.ethz.ch/people/person-detail.MzMyOTU4.TGlzdC82NjcsLTE0MzQwMTkxMjA=.html))
 <br>
 <br>
-<img src="images/CS23_Bolivia.png" alt="Visit to ETH Zurich" width="600">
+```markdown
+![Visit to ETH Zurich](images/CS23_Bolivia.png)
+
