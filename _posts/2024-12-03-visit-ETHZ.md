@@ -13,4 +13,7 @@ Beyond science, we also talked about the challenges of setting up a new lab as j
 It was a fantastic visit filled with engaging discussions, new ideas, and valuable takeaways. Looking forward to future collaborations!
 <br>
 <br>
-Read more on about the research in Schölmerich Lab: [Schölmerich Lab]([https://meetings.embo.org/event/23-amr-plasmids](https://ibp.ethz.ch/people/person-detail.MzMyOTU4.TGlzdC82NjcsLTE0MzQwMTkxMjA=.html))
+Read more on about the research in [Schölmerich Lab]([https://meetings.embo.org/event/23-amr-plasmids](https://ibp.ethz.ch/people/person-detail.MzMyOTU4.TGlzdC82NjcsLTE0MzQwMTkxMjA=.html))
+<br>
+<br>
+<img src="/images/CS23_Bolivia.png" alt="Visit to ETH Zurich" width="600">
