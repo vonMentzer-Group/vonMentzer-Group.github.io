@@ -10,6 +10,7 @@ author: Astrid von Mentzer
   caption="ETH Zurich"
   height="300px"
 %}
+{% include section.html %}
 <br><br>
 <br>
 Last year, Prof. Dr. Marie Schölmerich reached out for help with the shipment of samples collected from the pristine wetlands in Värmland. I was happy to assist a fellow female researcher, and after some logistical challenges—including a few lost samples—most of them finally arrived safely in Zurich.
