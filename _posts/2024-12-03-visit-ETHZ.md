@@ -4,7 +4,7 @@ author: Astrid von Mentzer
 ---
 <br>
 <br><br>
-![Visit to ETH Zurich](images/CS30.png)
+![Visit to ETH Zurich](../images/CS30.png)
 <br><br>
 <br>
 Last year, Prof. Dr. Marie Schölmerich reached out for help with the shipment of samples collected from the pristine wetlands in Värmland. I was happy to assist a fellow female researcher, and after some logistical challenges—including a few lost samples—most of them finally arrived safely in Zurich.
@@ -16,6 +16,6 @@ Beyond science, we also talked about the challenges of setting up a new lab as j
 It was a fantastic visit filled with engaging discussions, new ideas, and valuable takeaways. Looking forward to future collaborations!
 <br>
 <br><br>
-![Visit to ETH Zurich](images/CS30.png)
+![Visit to ETH Zurich](../images/CS30.png)
 <br><br>
 Read more on about the research in [Schölmerich Lab](https://ibp.ethz.ch/people/person-detail.MzMyOTU4.TGlzdC82NjcsLTE0MzQwMTkxMjA=.html))
