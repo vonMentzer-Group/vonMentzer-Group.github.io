@@ -1,5 +1,5 @@
 ---
-title: Visiting ETH-Zurich and the 
+title: Visiting ETH-Zurich and the Environmental Microbiology group
 author: Astrid von Mentzer
 ---
 <br>
