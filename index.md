@@ -34,30 +34,6 @@ The research in the von Mentzer Lab is focused on the study of bacterial evoluti
   text=text
 %}
 
-{% capture text %}
-
-We have multiple on-going projects covering aspects of bacterial evolution with a focus on pathogenic _E. coli_. The data we use and generate is pushed to be open source and freely accessible. Are you interested in joining the team, contact Astrid von Mentzer and we can discuss further.
-
-{%
-  include button.html
-  link="projects"
-  text="Contact"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/bacteria_that_code.png"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
@@ -76,8 +52,24 @@ We are a small team recently established at the Sahlgrenska Academy, Department 
 
 {%
   include feature.html
-  image="images/group_anime.png"
+  image="images/group-photo-2026.jpeg"
   link="team"
   title="Our Team"
   text=text
 %}
+
+{% capture text %}
+
+We have multiple on-going projects covering aspects of bacterial evolution with a focus on pathogenic _E. coli_. The data we use and generate is pushed to be open source and freely accessible. Are you interested in joining the team, contact Astrid von Mentzer and we can discuss further.
+
+{%
+  include button.html
+  link="projects"
+  text="Contact"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
