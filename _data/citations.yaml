@@ -176,13 +176,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.04.11.536449
-  title: Construction of the ETECFinder database for the characterisation of enterotoxigenic<i>Escherichia
-    coli</i>(ETEC) and revision of the<i>VirulenceFinder</i>webtool at the CGE website
+  title: "Construction of the ETECFinder database for the characterisation of enterotoxigenic\n\
+    \                  <i>Escherichia coli</i>\n                  (ETEC) and revision\
+    \ of the\n                  <i>VirulenceFinder</i>\n                  webtool\
+    \ at the CGE website"
   authors:
   - Flemming Scheutz
   - Camilla Hald Nielsen
   - Astrid von Mentzer
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: ''
   link: https://doi.org/gr6t7r
   type: Preprint
@@ -214,7 +216,7 @@
   - Inger Kuhn
   - "Sergio Guti\xE9rrez-Cortez"
   - "Enrique Joffr\xE9"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-03-10'
   link: https://doi.org/gr6t7s
   image: images/CS23_bolivia.png
