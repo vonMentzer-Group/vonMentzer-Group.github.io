@@ -240,8 +240,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: 10.1128/msystems.00141-23
-  title: "Circulation of enterotoxigenic\n            <i>Escherichia coli</i>\n  \
-    \          (ETEC) isolates expressing CS23 from the environment to clinical settings"
+  title: "Circulation of enterotoxigenic\n                    <i>Escherichia coli</i>\n\
+    \                    (ETEC) isolates expressing CS23 from the environment to clinical\
+    \ settings"
   authors:
   - Carla Calderon Toledo
   - Astrid von Mentzer
