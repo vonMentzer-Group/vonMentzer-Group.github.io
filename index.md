@@ -1,7 +1,7 @@
 ---
 ---
 {:.center}
-<h3>Exciting news - the von Mentzer Lab is expanding - we are now looking for a postdoc interested in microbial genomics! For more info <a href="http://vonmentzerlab.com/join/">click here!</a> Contact us if you are looking for MSc/Erasmus projects - multiple projects available!</h3>
+<h3>Considering an MSCA Postdoctoral Fellowship for 2027? Explore our research first and see whether your own research ideas align with the von Mentzer Lab. If you can envision developing an original MSCA project within our research environment, we’d be happy to hear from you. For more info <a href="http://vonmentzerlab.com/join/">click here!</a> Contact us if you are looking for MSc/Erasmus projects - multiple projects available!</h3>
 {:.center}
 
 # Microbial Genomics meets Functional Microbiology
