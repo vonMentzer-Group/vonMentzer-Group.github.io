@@ -1,48 +1,65 @@
 ---
 ---
 {:.center}
-<h3>Amazing news - Astrid von Mentzer, PI of von Mentzer Lab, has recieved a huge grant and joined as a DDLS-fellow. We are seeking individuals (PhD-students and postdocs) with a keen interest in computational biology, particularly in the areas of microbial genomics and machine learning. For more info <a href="http://vonmentzerlab.com/join/">click here!</a></h3>
-{:.center}
 
-# Microbial Genomics meets Functional Microbiology
+<h3>
+Looking for an MSc thesis, Erasmus project, PhD or postdoctoral position?
+We are always interested in motivated researchers.
+For more information <a href="http://vonmentzerlab.com/join/">click here!</a>
+</h3>
 
-The von Mentzer Lab is a team of researchers at the University of Gothenburg, Sahlgrenska Academy dedicated to answering important questions in bacterial evolution using a combination of computational and experimental methodologies. We focus on bringing together publicly available big data, and collecting new data from collaborations worldwide with the aim to make our data and tools freely available and openly licensed for other researchers to use and extend our work.
+# Microbial Genomics Meets Functional Microbiology
+
+The von Mentzer Lab at the University of Gothenburg combines computational biology and experimental microbiology to understand how pathogenic bacteria evolve, adapt to different hosts, and cause disease. Our work integrates large-scale genomic data with laboratory experiments to answer fundamental questions in bacterial evolution and host-pathogen interactions.
 
 {% include section.html %}
 
 
 {% capture text %}
 
-The research in the von Mentzer Lab is focused on the study of bacterial evolution, specifically the evolution of pathogenic _E. coli_, such as enterotoxgenic _Escherichia coli_ (ETEC). One of the many virulence factors that bacteria express are adhesins, also called colonisation factors. These are proteinaceous outer membrane structures that allow tha bacteria to adhere to the host cells. In ETEC there is a battery of colonisation factors that we know quite little about. We use genomic approached to study sequenced _E. coli_ genomes, including ETEC to investigate the diversity of these colonisation factors including their mobile genetic elements. In addition to viurlence genes, we have an interest in antibiotic resistance with the aim to investigate the plasmids carrying resistance genes and field that currently is expanding. The genomic findings guide the experimental approaches to investigate the functionality of, for example a putative colonisation factor. 
+Our research focuses on the evolution of pathogenic *Escherichia coli*, with particular emphasis on bacterial adhesion, plasmid biology, antimicrobial resistance, and host adaptation.
+
+We combine comparative genomics, bioinformatics, machine learning, structural prediction and experimental microbiology to identify new virulence factors and understand how bacterial traits emerge, spread and evolve.
+
+Our goal is to develop openly available datasets, tools and resources that support the wider microbiology community.
 
 {%
+
   include button.html
+
   link="research"
-  text="See what we've published"
+
+  text="Explore our research"
+
   icon="fa-solid fa-arrow-right"
+
   flip=true
+
   style="bare"
+
 %}
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/orange_etec_cs30.png"
+  image="images/tree-first-page.png"
   link="research"
-  title="Functional genomics"
+  title="Research"
   text=text
 %}
 
 
 {% capture text %}
 
-We are a small team recently established at the Sahlgrenska Academy, Department of Microbiology and Immunology. We strive to build a diverse team where we emmbrace our differences and create space for innovation. We are funded by multiple funders, including the prestigous funders Knut and Alice Wallenberg [(DDLS)](https://www.scilifelab.se/data-driven/) and [The Research Council](https://www.vr.se/). Additional funding comes from Sahlgrenska Academy, Åke Wiberg and Jeanssons Stiftelse. 
+We are an interdisciplinary team bringing together microbiologists, bioinformaticians and computational biologists. Our projects span bacterial genomics, functional microbiology and One Health, and are carried out through collaborations across Europe, Asia and Africa.
+
+We welcome students and researchers from diverse backgrounds who enjoy combining computational and experimental approaches.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet the team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -55,21 +72,33 @@ We are a small team recently established at the Sahlgrenska Academy, Department 
   image="images/group-photo-2026.jpeg"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}
 
 {% capture text %}
 
-We have multiple on-going projects covering aspects of bacterial evolution with a focus on pathogenic _E. coli_. The data we use and generate is pushed to be open source and freely accessible. Are you interested in joining the team, contact Astrid von Mentzer and we can discuss further.
+We regularly host MSc students, Erasmus students, PhD candidates and postdoctoral researchers.
+
+If you are interested in bacterial evolution, microbial genomics, bioinformatics, machine learning or experimental microbiology, we'd be happy to hear from you.
 
 {%
   include button.html
-  link="projects"
-  text="Contact"
+  link="join"
+  text="Join the lab"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
 
 {% endcapture %}
+
+{%
+  include feature.html
+  image="agarplate-first-page.jpeg"
+  link="join"
+  title="Join the Lab"
+  text=text
+%}
+
 
