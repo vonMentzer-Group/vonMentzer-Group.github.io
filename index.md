@@ -95,7 +95,7 @@ If you are interested in bacterial evolution, microbial genomics, bioinformatics
 
 {%
   include feature.html
-  image="agarplate-first-page.jpeg"
+  image="images/agarplate-first-page.jpeg"
   link="join"
   title="Join the Lab"
   text=text
