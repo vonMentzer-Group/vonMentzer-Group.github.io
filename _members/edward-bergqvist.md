@@ -1,7 +1,7 @@
 ---
 name: Edward Bergqvist
 image: images/edward-bergqvist.jpg
-role: MSc-student
+role: undergrad
 description: Pharmacy student
 ---
 
