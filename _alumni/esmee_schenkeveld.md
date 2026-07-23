@@ -1,6 +1,6 @@
 ---
 name: Esmee Schenkeveld
-image: images/esmee_schenkeveld.jpeg
+image: images/esmee-schenkeveld.jpeg
 role: undergrad
 description: BSc-student
 ---
