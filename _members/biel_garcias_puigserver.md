@@ -1,6 +1,6 @@
 ---
 name: Biel Garcias Puigserver
-image: images/biel-puigserver-2.jpeg
+image: images/biel-puigserver-small-2.jpeg
 role: postdoc
 description: Postdoctoral researcher
 ---
